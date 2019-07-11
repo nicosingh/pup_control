@@ -1,5 +1,4 @@
 mod 'herculesteam-augeasproviders', '2.1.3'
-mod 'herculesteam-augeasproviders', '2.1.3'
 mod 'herculesteam-augeasproviders_apache', '2.0.2'
 mod 'herculesteam-augeasproviders_base', '2.0.1'
 mod 'herculesteam-augeasproviders_core', '2.1.3'
